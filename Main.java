@@ -21,6 +21,7 @@ class Main {
 
     } else {
       System.out.println("The score you entered is not applicable");
+      //For people who try to cheat and put scores that cannot count 
     } 
   }
 }
