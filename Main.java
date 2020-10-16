@@ -17,7 +17,10 @@ class Main {
     } else if (s >= 11 && s< 20){
       System.out.println("Game won!");
 
-    // If you have less than 11 points at the end of the game you lose 
-    }
+    // If you have less than 11 points at the end of the game you lose
+
+    } else {
+      System.out.println("The score you entered is not applicable");
+    } 
   }
 }
